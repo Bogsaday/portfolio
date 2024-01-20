@@ -241,6 +241,6 @@ nav a:hover {
   }
 
   .hero-image img {
-    display: none;
+    cursor: help;
   }
 }
