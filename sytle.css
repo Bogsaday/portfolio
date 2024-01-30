@@ -243,7 +243,6 @@ nav a:hover {
   .hero-image img {
     cursor: help;
     width: 800px;
-
     height: inherit;
   }
 }
