@@ -244,5 +244,6 @@ nav a:hover {
     cursor: help;
     width: 800px;
     height: inherit;
+    height: inherit;
   }
 }
