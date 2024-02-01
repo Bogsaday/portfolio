@@ -246,5 +246,6 @@ nav a:hover {
     height: 900px;
     height: inherit;
     user-select: none;
+    user-select: auto;
   }
 }
