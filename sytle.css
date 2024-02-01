@@ -247,5 +247,6 @@ nav a:hover {
     height: inherit;
     user-select: none;
     user-select: auto;
+    word-break: keep-all;
   }
 }
