@@ -248,5 +248,6 @@ nav a:hover {
     user-select: none;
     user-select: auto;
     word-break: keep-all;
+    opacity: inherit;
   }
 }
