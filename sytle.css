@@ -245,5 +245,8 @@ nav a:hover {
     width: 1800px;
     height: 900px;
     height: inherit;
+    width: inherit;
+    width: inherit;
+    
   }
 }
